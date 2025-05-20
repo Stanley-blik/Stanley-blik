@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Stanley-blik
-- 👀 I’m interested in Programming and ethical hacking 
-- 🌱 I’m currently learning web development 
+- 👀 I’m interested in Programming and ethical hacking
+- 🌐 I'm good at Web Development (Good at HTML, CSS, Bulma CSS, JavaScript, Firebase Integration)
+- 🌱 I’m currently learning android App Development (Using Kotlin and Firebase for Backend)
 - 💞️ I’m looking to collaborate on ethical hacking principles 
 - 📫 How to reach me: Whatsapp (254)754218952
 - 😄 Pronouns: Aspiring cyber security engineer
