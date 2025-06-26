@@ -20,7 +20,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 
 ## 🌱 Currently Learning
 - Advanced **Android Development** with Firebase integration  
-- Building full-stack Flutter apps (Memenova)
+- Building full-stack Flutter apps (LoL Factory)
 - Organic Chemistry II (yeah, I’m versatile like that!)
 
 ## 🤝 Let’s Collaborate On
