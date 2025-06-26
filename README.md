@@ -15,7 +15,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - **LoL Factory** – A meme-sharing app with monetization for creators  
 - **StaNLink Storage Network (SSN)** – A Firebase-inspired cloud platform  
 - **LinkX** – Telegram bot for auto-deploying personal bots  
-- **Chronicles** – Instagram storytelling automation  
+- **EduVault** - An educational Telegram bot with cool features  
 - **Flutter Termux Dev Setup** – Full dev environment on Android
 
 ## 🌱 Currently Learning
