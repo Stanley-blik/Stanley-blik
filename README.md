@@ -12,7 +12,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - ⚙️ Tinkering with **automation**, **bot creation**, and **command-line development**
 
 ## 🚀 Featured Projects
-- **Memenova** – A meme-sharing app with monetization for creators  
+- **LoL Factory** – A meme-sharing app with monetization for creators  
 - **StaNLink Storage Network (SSN)** – A Firebase-inspired cloud platform  
 - **LinkX** – Telegram bot for auto-deploying personal bots  
 - **Chronicles** – Instagram storytelling automation  
