@@ -31,7 +31,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 ## 📫 Reach Me
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Your%20WhatsApp%20Number-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
   
-- [![Telegram](https://img.shields.io/badge/Telegram-Your%20Telegram%20Username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-telegram-username)
+- [![Telegram](https://img.shields.io/badge/Telegram-Your%20Telegram%20Username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanlinkAdmin_bot)
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stanley-blik)
 
