@@ -1,4 +1,4 @@
-# 👋 Hi there, I’m @Stanley-blik
+# 👋 Hi there, I’m Stanley
 
 I'm a passionate **developer and cyber security enthusiast** based in Kenya, building innovative tools and platforms that push boundaries in tech and meme culture.
 
