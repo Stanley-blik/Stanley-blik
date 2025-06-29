@@ -12,7 +12,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - ⚙️ Tinkering with **automation**, **bot creation**, and **command-line development**
 
 ## 🚀 Featured Projects
-- [**LoL Factory**](https://the-lol-factory.vercel.app/) – A meme-sharing app with monetization for creators  
+- [**LoL Factory**](https://the-lol-factory.vercel.app/auth.html) – A meme-sharing app with monetization for creators  
 - **StaNLink Storage Network (SSN)** – A Firebase-inspired cloud platform  
 - **LinkX** – Telegram bot for auto-deploying personal bots  
 - **EduVault** - An educational Telegram bot with cool features  
