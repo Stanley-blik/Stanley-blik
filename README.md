@@ -19,7 +19,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - **Flutter Termux Dev Setup** – Full dev environment on Android
 
 ## 👨‍💻 Featured Cyber Sec Tools
-- **SimpleReconScanner** - A beginner-friendly Python script for basic network reconnaissance and port scanning.
+- [**SimpleReconScanner**](https://github.com/Stanley-blik/SimpleReconScanner) - A beginner-friendly Python script for basic network reconnaissance and port scanning.
 
 ## 🌱 Currently Learning
 - Advanced **Android Development** with Firebase integration  
