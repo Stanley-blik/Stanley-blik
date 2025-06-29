@@ -24,7 +24,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 ## 🌱 Currently Learning
 - Advanced **Android Development** with Firebase integration  
 - Building full-stack Flutter apps (LoL Factory)
-- Web Vulnerabilities (Identifying them and Measures to be taken)
+- Web Application Vulnerabilities (Identifying them and Measures to be taken)
 
 ## 🤝 Let’s Collaborate On
 - Ethical hacking and cybersecurity concepts  
