@@ -14,7 +14,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 ## 🚀 Featured Projects
 - [**LoL Factory**](https://the-lol-factory.vercel.app/auth.html) – A meme-sharing app with monetization for creators  
 - **StaNLink Storage Network (SSN)** – A Firebase-inspired cloud platform  
-- **LinkX** – Telegram bot for auto-deploying personal bots  
+- [**LinkX**](https://github.com/Stanley-blik/LinkX-v2-Telegram-Deployer-Bot-.git) – Telegram bot for auto-deploying personal Whatsapp bots  
 - **EduVault** - An educational Telegram bot with cool features  
 - **Flutter Termux Dev Setup** – Full dev environment on Android
 
