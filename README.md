@@ -21,7 +21,8 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 ## 👨‍💻 Featured Cyber Sec Tools
 - [**SimpleReconScanner**](https://github.com/Stanley-blik/SimpleReconScanner) - A beginner-friendly Python script for basic network reconnaissance and port scanning.<br>
 - [**Vulnerability Scanner**](https://github.com/Stanley-blik/VulnerabilityScanner.git) - A powerful tool to scan your projects before releasing, just to ensure your Application isn't Vulnerable<br>
-> Actively working on the Vulnerability Scanner to handle more vulnerabilities 
+> Actively working on the Vulnerability Scanner to handle more vulnerabilities
+- [**StaNExus White Hat Terminal App**]() - A simulated command-line interface Flutter application designed for educational purposes to demonstrate common ethical hacking phases and concepts: reconnaissance, vulnerability scanning, and reporting.
 
 ## 🌱 Currently Learning
 - Advanced **Android Development** with Firebase integration  
