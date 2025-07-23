@@ -8,6 +8,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - 🌐 Skilled in **Web Development**:  
   - HTML, CSS, JavaScript  
   - Bulma CSS, Firebase (Auth, Firestore, Hosting)  
+  - Next.js for SEO ,app deeplinks and link previews
 - 🛠️ Working with **Flutter** (via Termux on Android) to build multiplatform apps  
 - ⚙️ Tinkering with **automation**, **bot creation**, and **command-line development**
 
