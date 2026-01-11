@@ -39,7 +39,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 ## 📫 Reach Me
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-254114013240-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
 
-- [![EMAIL](https://img.shields.io/badge/email-stanleytheceo-blue)](mailto:stanley@memenovaapp.com)
+- [![EMAIL](https://img.shields.io/badge/EMAIL-stanleytheceo-blue?style=for-the-badge&logo=email)](mailto:stanley@memenovaapp.com)
   
 - [![Telegram](https://img.shields.io/badge/Telegram-@scriptkiddy254-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanlinkAdmin_bot)
 
