@@ -37,11 +37,11 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - Telegram bot automation and Firebase-based tools
 
 ## 📫 Reach Me
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-Your%20WhatsApp%20Number-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-254114013240-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
 
-- [![Email]![Static Badge](https://img.shields.io/badge/email-stanleytheceo-blue)](mailto:stanley@memenovaapp.com)
+- [![Email](https://img.shields.io/badge/email-stanleytheceo-blue)](mailto:stanley@memenovaapp.com)
   
-- [![Telegram](https://img.shields.io/badge/Telegram-Your%20Telegram%20Username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanlinkAdmin_bot)
+- [![Telegram](https://img.shields.io/badge/Telegram-@scriptkiddy254-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanlinkAdmin_bot)
 
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stanley-blik)
 
