@@ -13,7 +13,8 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - ⚙️ Tinkering with **automation**, **bot creation**, and **command-line development**
 
 ## 🚀 Featured Projects
-- [**LoL Factory**](https://the-lol-factory.vercel.app/auth.html) – A meme-sharing app with monetization for creators  
+- [**LoL Factory**](https://the-lol-factory.vercel.app/auth.html) – A meme-sharing app with monetization for creators (A prototype for Memenova App)
+- [**Memenova App**](https://memenovaapp.com) - Instagram for memes. Test [**the app**](https://app.memenovaapp.com) here
 - **StaNLink Storage Network (SSN)** – A Firebase-inspired cloud platform  
 - [**LinkX**](https://github.com/Stanley-blik/LinkX-v2-Telegram-Deployer-Bot-.git) – Telegram bot for auto-deploying personal Whatsapp bots  
 - **EduVault** - An educational Telegram bot with cool features  
@@ -37,6 +38,8 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 
 ## 📫 Reach Me
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-Your%20WhatsApp%20Number-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
+
+- [![Email]![Static Badge](https://img.shields.io/badge/email-stanleytheceo-blue)](mailto:stanley@memenovaapp.com)
   
 - [![Telegram](https://img.shields.io/badge/Telegram-Your%20Telegram%20Username-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanlinkAdmin_bot)
 
