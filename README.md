@@ -15,6 +15,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 ## 🚀 Featured Projects
 - [**LoL Factory**](https://the-lol-factory.vercel.app/auth.html) – A meme-sharing app with monetization for creators (A prototype for Memenova App)
 - [**Memenova App**](https://memenovaapp.com) - Instagram for memes. Test [**the app**](https://app.memenovaapp.com) here
+- [**Dorkly**](https://dorkly.stanl.ink) - PDF, PPT, XLS, Document finder App. [**Try It**](https://dorkly.stanl.ink)
 - **StaNLink Storage Network (SSN)** – A Firebase-inspired cloud platform  
 - [**LinkX**](https://github.com/Stanley-blik/LinkX-v2-Telegram-Deployer-Bot-.git) – Telegram bot for auto-deploying personal Whatsapp bots  
 - **EduVault** - An educational Telegram bot with cool features  
