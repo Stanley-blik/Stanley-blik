@@ -13,6 +13,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - ⚙️ Tinkering with **automation**, **bot creation**, and **command-line development**
 
 ## 🚀 Featured Projects
+- [**PyP**](https://github.com/PyP-Inc/PyP) – An all in one platform for **Quantitative Finance**. [**Sign Up**](https://pyp.stanl.ink)
 - [**LoL Factory**](https://the-lol-factory.vercel.app/auth.html) – A meme-sharing app with monetization for creators (A prototype for Memenova App)
 - [**Memenova App**](https://memenovaapp.com) - Instagram for memes. Test [**the app**](https://app.memenovaapp.com) here
 - [**Dorkly**](https://dorkly.stanl.ink) - PDF, PPT, XLS, Document finder App. [**Try It**](https://dorkly.stanl.ink)
