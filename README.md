@@ -39,7 +39,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
 - Telegram bot automation and Firebase-based tools
 
 ## 📫 Reach Me
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-254114013240-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-+254(114)013240-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/254754218952)
 
 - [![EMAIL](https://img.shields.io/badge/EMAIL-sir.stanley@stanl.ink-blue?style=for-the-badge&logo=email)](mailto:sir.stanley@stanl.ink)
   
