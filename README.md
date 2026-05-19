@@ -45,7 +45,7 @@ I'm a passionate **developer and cyber security enthusiast** based in Kenya, bui
   
 - [![Telegram](https://img.shields.io/badge/Telegram-@scriptkiddy254-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/StanlinkAdmin_bot)
 
-- [![GitHub](https://img.shields.io/badge/GitHub-Stanley-blik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stanley-blik)
+- [![GitHub](https://img.shields.io/badge/GitHub-Stanl3y-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Stanley-blik)
 
 
 ## ⚡ Fun Fact
